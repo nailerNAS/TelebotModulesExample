@@ -1,7 +1,8 @@
-certifi==2019.6.16
-chardet==3.0.4
-idna==2.8
-pyTelegramBotAPI==3.6.6
-requests==2.22.0
-six==1.12.0
-urllib3==1.25.3
+-i https://pypi.org/simple/
+certifi==2020.12.5
+chardet==4.0.0
+idna==2.10
+pytelegrambotapi==3.6.6
+requests==2.25.1
+six==1.15.0
+urllib3==1.25.8
